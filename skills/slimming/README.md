@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🔬 Skill Slimming v15
+# 🔬 Skill Slimming 
 
 ```bash
-npx skill-slim@latest input.md --output slim.md   # 占位命令，后续替换
+npx skills add Gs0098/peace-and-love-skills --skill slimming -g # 安装命令
 ```
 
 **让 AI Agent 的 Skill 更精简、更清晰、更稳定**
